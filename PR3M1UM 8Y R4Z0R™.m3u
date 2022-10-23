@@ -1,0 +1,50 @@
+﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sirasa TV" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",Sirasa TV(SD)
+https://usher.ttvnw.net/api/channel/hls/newsfirstsl.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Siyatha TV" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",Siyatha TV(SD)
+https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Swarnawahini" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",Swarnawahini(SD)
+https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8?md5=SUe0DLn4YpqRKNr7VTPvsg&expires=1666528466
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNL" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",TNL(SD)
+https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CrMFgMcyDAGxqYYiYj4tez51RYIgHDQS1H7c_N_uZjjamaLcAYA-Ar1bVYjhQ1xoUAnshtxNiBPQBQZBUBBmCGrHhGDgnepNPtceb2q0h1EAfq2pHguY5cAKBHBKW7iMCfh4tPeJcj-YLIz9qk6XvfYqEwKJq_lddd1vvfDyx1P-SHO3ec2DXo9KQpMhNeBE5fDGGLmrN-0w0ePlGQjZz04jSZYDsimXijDENrdfkHs2OztAHo6jnxkBFcgqoO64ziR3cOVoiL7cRzzyArKKOtZw9rPTiZOdftOG_RENhvXXAsMOsg04zGYQJgeFxOXZxKQoPZai-n06PTfleca9Cv2skk88w9Vu2LGF6rRudYXcaM_gHdn9KpiPgrsblhPb9WLHhQistRNQnyfi5KBhWBOuZafAiAHPI-WOQejxbNJ9sdypAOkacBOyC8sbwErhdXLt5W8QIfbR4ojNg8l_LUOodom2NsGNy_Mts5dtAXHICsJJvZdlKHEB-23vcJAEKeZfBXvWmezu-iMu7th52kzqegzPqi8WVGU2QFFaSX1ClJlNQYRUGIU8pJyK-G9Kx17PV3HA573csNea8VtGTfsXx7hkOlkK6v8b_plMxb9odhPHPYNGDNYQuUNF9PnC_L9p692Gwmn9AfmpEs6k7JF4bwKZLcdRXI-fRtwRWZzXY4aaxTJ1VYZZoAdKl-yK5ow1tXBAr23qCUHP2ELPCayM-tWjjdSvZRKbtuJw2yE1EXYRByWdjGqs5SvzhuJWZt7GoLiH6JEqmaSqlCfPH7a40cjw4Ja1SkS1XyvcxybQyimnqJ6TFKJ2K-FaK9FNU7doBZyepBqkeIy9LhLmyWLe-ZcQnBJ3enHWZZTASq-NXRShZr-8FxyBe2Xp_8dYS0Q8tyrHjAEGg7jB6HiP-17ZV3uPvhoMB1j2Up7j_L-Jfg22IAEqCXVzLXdlc3QtMjD8BA.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Derana" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",TV Derana(SD)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666542307/ei/ghZVY5inOsDu4-EPsOuYgAk/ip/51.79.161.198/id/3fxJ1iOjxeA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJARtCNWgwyn74Gg2qe1FwbRBh9SKXiu_8P2nFvKMuE7AiEAy0m2TIv7wL-Vb49qXFlCnI9wz7aT3RGRiPlQE95rjY8%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITN" tvg-logo="" group-title="😈R4Z0R™😈 SL HD",ITN (HD)
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Sports 3" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET SD",BEIN Sports 3 (SD)
+http://31.172.87.20:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET SD",PTV Sports HD (SD)
+http://31.172.87.20:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET SD", Star Sports 1 Hindhi HD (SD)
+https://d3cfw2mckicdfw.cloudfront.net/0b4e13bd8fa5f53fa46590689fba811d9b36e2d5/chunklist_medium/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Tamil" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET SD",Star Sports Tamil (SD)
+http://31.172.87.52:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET SD",Sky Sports Cricket(SD)
+https://es1.quest123.top:8088/live/webcricn04/playlist.m3u8?vidictid=192889339766&id=114607&pk=186b7da10ce1b332e0f1236451026cd230500ba31e6c917c352469461e2a3f77b0ebcc387c339e40efa09860026a18de6f71fbdeedf4e1235f67931b8d6b487d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET SD",Super Sports Cricket(SD)
+https://es1.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=192889894562&id=115656&pk=186b7da10ce1b332e0f1236451026cd230500ba31e6c917c352469461e2a3f77b0ebcc387c339e40efa09860026a18de6f71fbdeedf4e1235f67931b8d6b487d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Siyatha TV" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET SD",Siyatha TV(SD)
+https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET HD",Sky Sports Cricket (HD)
+http://31.172.87.20:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET HD",Super Sports Cricket (HD)
+http://31.172.87.20:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Cricket" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET HD",Willow Cricket (HD)
+http://31.172.87.20:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET HD",Star Sports 2 HD (HD)
+http://221.120.204.3/STAR-SPORTS-2-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Cricket" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET HD",Astro Cricket (HD)
+http://bandookk.xyz:8000/live/cricket/weloveu/17528.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET FHD",Star Sports 1 HD (FHD)
+http://watchindia.net:8880/live/vvv/vvv/808.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET FHD",Star Sports 1 Hindhi HD (FHD)
+http://31.172.87.20:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET FHD",Star Sports 1 Hindhi HD (FHD) 2
+https://akiliv.herokuapp.com/app/master.php?id=48120&e=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET FHD",Star Sports 2 HD (FHD)
+https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
