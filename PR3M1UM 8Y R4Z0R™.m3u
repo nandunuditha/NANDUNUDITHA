@@ -1,7 +1,5 @@
 ﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml"
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sirasa TV" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",Sirasa TV(SD)
-https://usher.ttvnw.net/api/channel/hls/newsfirstsl.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Siyatha TV" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",Siyatha TV(SD)
 https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Swarnawahini" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",Swarnawahini(SD)
