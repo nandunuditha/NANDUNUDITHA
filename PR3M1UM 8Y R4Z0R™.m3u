@@ -14,6 +14,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666673236/ei/9
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITN" tvg-logo="" group-title="😈R4Z0R™😈 SL HD",ITN (HD)
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/chunks_dvr.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="" group-title="😈R4Z0R™😈 News HD",Al Jazeera (HD)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Sports 3" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET SD",BEIN Sports 3 (SD)
 http://31.172.87.20:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET SD",PTV Sports HD (SD)
@@ -46,6 +49,7 @@ http://31.172.87.20:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=RED_Hqq
 https://akiliv.herokuapp.com/app/master.php?id=48120&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET FHD",Star Sports 2 HD (FHD)
 https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
+
 
 
 
