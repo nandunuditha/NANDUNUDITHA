@@ -14,6 +14,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666673236/ei/9
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITN" tvg-logo="" group-title="😈R4Z0R™😈 SL HD",ITN (HD)
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/chunks_dvr.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="😈R4Z0R™😈 Documentry",Animal Planet
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="" group-title="😈R4Z0R™😈 News HD",Al Jazeera (HD)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
