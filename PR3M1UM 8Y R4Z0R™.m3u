@@ -17,6 +17,9 @@ https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435ca
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="" group-title="😈R4Z0R™😈 News HD",Al Jazeera (HD)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="😈R4Z0R™😈 Kids",Cartoon Network (HD)
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN Sports 3" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET SD",BEIN Sports 3 (SD)
 http://31.172.87.20:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET SD",PTV Sports HD (SD)
