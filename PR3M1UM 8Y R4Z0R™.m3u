@@ -12,7 +12,7 @@ https://video-weaver.sin04.hls.ttvnw.net/v1/playlist/CrQFB5OxK2yVPvJ96WvkwW2FUW_
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666673236/ei/9BVXY-yPI8Sjz7sPtO6SiAM/ip/172.104.36.208/id/x7tM6PrD230.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgb-f9H6Xjaw-wAI6CxUD-h9bMS6X1wAgHQrMf1kUHVlUCIEmRk3t2O2bdddHnhU3S5OKAhqSMng7j6E41k3Ml4bgJ/file/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITN" tvg-logo="" group-title="😈R4Z0R™😈 SL HD",ITN (HD)
-https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/chunks_dvr.m3u8
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="😈R4Z0R™😈 Documentry",Animal Planet
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
