@@ -38,7 +38,6 @@ http://31.172.87.20:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=R
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET HD",Star Sports 2 HD (HD)
 http://221.120.204.3/STAR-SPORTS-2-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Cricket" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET HD",Astro Cricket (HD)
-#EXT-X-STREAM-INF:RESOLUTION=640x360
 http://bandookk.xyz:8000/live/cricket/weloveu/17528.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET FHD",Star Sports 1 HD (FHD)
