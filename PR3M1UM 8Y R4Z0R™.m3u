@@ -1,13 +1,15 @@
-﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml"
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hiru TV" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",Hiru TV(SD)
+https://eu10b.serverse.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Siyatha TV" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",Siyatha TV(SD)
-https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
+https://voaplus.com:/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Swarnawahini" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",Swarnawahini(SD)
-https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/chunks.m3u8?md5=SUe0DLn4YpqRKNr7VTPvsg&expires=1666528466
+https://jk3lz8xklw79-hls-live.5centscdn.com/efm/098f6bcd4621d373cade4e832627b4f6.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNL" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",TNL(SD)
 https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CrMFgMcyDAGxqYYiYj4tez51RYIgHDQS1H7c_N_uZjjamaLcAYA-Ar1bVYjhQ1xoUAnshtxNiBPQBQZBUBBmCGrHhGDgnepNPtceb2q0h1EAfq2pHguY5cAKBHBKW7iMCfh4tPeJcj-YLIz9qk6XvfYqEwKJq_lddd1vvfDyx1P-SHO3ec2DXo9KQpMhNeBE5fDGGLmrN-0w0ePlGQjZz04jSZYDsimXijDENrdfkHs2OztAHo6jnxkBFcgqoO64ziR3cOVoiL7cRzzyArKKOtZw9rPTiZOdftOG_RENhvXXAsMOsg04zGYQJgeFxOXZxKQoPZai-n06PTfleca9Cv2skk88w9Vu2LGF6rRudYXcaM_gHdn9KpiPgrsblhPb9WLHhQistRNQnyfi5KBhWBOuZafAiAHPI-WOQejxbNJ9sdypAOkacBOyC8sbwErhdXLt5W8QIfbR4ojNg8l_LUOodom2NsGNy_Mts5dtAXHICsJJvZdlKHEB-23vcJAEKeZfBXvWmezu-iMu7th52kzqegzPqi8WVGU2QFFaSX1ClJlNQYRUGIU8pJyK-G9Kx17PV3HA573csNea8VtGTfsXx7hkOlkK6v8b_plMxb9odhPHPYNGDNYQuUNF9PnC_L9p692Gwmn9AfmpEs6k7JF4bwKZLcdRXI-fRtwRWZzXY4aaxTJ1VYZZoAdKl-yK5ow1tXBAr23qCUHP2ELPCayM-tWjjdSvZRKbtuJw2yE1EXYRByWdjGqs5SvzhuJWZt7GoLiH6JEqmaSqlCfPH7a40cjw4Ja1SkS1XyvcxybQyimnqJ6TFKJ2K-FaK9FNU7doBZyepBqkeIy9LhLmyWLe-ZcQnBJ3enHWZZTASq-NXRShZr-8FxyBe2Xp_8dYS0Q8tyrHjAEGg7jB6HiP-17ZV3uPvhoMB1j2Up7j_L-Jfg22IAEqCXVzLXdlc3QtMjD8BA.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Derana" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",TV Derana(SD)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666542307/ei/ghZVY5inOsDu4-EPsOuYgAk/ip/51.79.161.198/id/3fxJ1iOjxeA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJARtCNWgwyn74Gg2qe1FwbRBh9SKXiu_8P2nFvKMuE7AiEAy0m2TIv7wL-Vb49qXFlCnI9wz7aT3RGRiPlQE95rjY8%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/dash/expire/1666598213/ei/5fBVY8G_Jbiag8UPmpKjiA4/ip/51.79.161.198/id/3fxJ1iOjxeA.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPiFg6vnAksvUHuqrwXjXh8KMhaNQmKeXZ4l9nrqHS7kCIQD_etPfrPpLbr1nEv1smfEOpENaQLDhKpckk2HE6TYYUw%3D%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666598213/ei/5fBVY8G_Jbiag8UPmpKjiA4/ip/51.79.161.198/id/3fxJ1iOjxeA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJf-dV-ut3XBD-9_tRExiY2melfletII4Ypd5Y6TL7iIAiEAqbNANib4hG5WP8fFe40N0MlW8YUXBKg0fRY-fjYtK3I%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITN" tvg-logo="" group-title="😈R4Z0R™😈 SL HD",ITN (HD)
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/chunks_dvr.m3u8
@@ -36,6 +38,7 @@ http://31.172.87.20:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=R
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET HD",Star Sports 2 HD (HD)
 http://221.120.204.3/STAR-SPORTS-2-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Cricket" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET HD",Astro Cricket (HD)
+#EXT-X-STREAM-INF:BANDWIDTH=1039483,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x360
 http://bandookk.xyz:8000/live/cricket/weloveu/17528.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 CRICKET FHD",Star Sports 1 HD (FHD)
