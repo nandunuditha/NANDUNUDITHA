@@ -47,7 +47,7 @@ http://watchindia.net:8880/live/vvv/vvv/2325.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Arena
 http://watchindia.net:8880/live/vvv/vvv/2095.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Cricket (HD)
-http://31.172.87.50:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+http://watchindia.net:8880/live/vvv/vvv/2143.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Cricket (HD) 2
 http://ipflix.click:8080/live/3rvvs1p95e/w2a1bam3x7/692264.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports F1
@@ -99,6 +99,8 @@ https://bhls.sportsignalforsell.cc/playing/live/1/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Willow Cricket(HD) 2
 http://watchindia.net:8880/live/vvv/vvv/2145.ts
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS FHD",Sky Sports Cricket (FHD)
+http://31.172.87.50:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS FHD",Star Sports 1 HD (FHD)
 http://watchindia.net:8880/live/vvv/vvv/808.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS FHD",Star Sports 1 Hindhi HD (FHD)
