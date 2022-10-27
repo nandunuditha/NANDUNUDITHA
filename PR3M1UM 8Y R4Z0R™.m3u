@@ -110,3 +110,5 @@ https://akiliv.herokuapp.com/app/master.php?id=48120&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS FHD",Star Sports 2 HD (FHD)
 https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
+https://github.com/nandunuditha/LiveStream/raw/main/playlist.m3u8
