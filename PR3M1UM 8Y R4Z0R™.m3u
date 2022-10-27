@@ -29,7 +29,7 @@ https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Ani
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="😈R4Z0R™😈 Kids",Cartoon Network
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+http://watchindia.net:8880/live/vvv/vvv/2052.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",Sky Sports Cricket(SD) (PC)
 https://es1.quest123.top:8088/live/webcricn04/playlist.m3u8?vidictid=192889339766&id=114607&pk=186b7da10ce1b332e0f1236451026cd230500ba31e6c917c352469461e2a3f77b0ebcc387c339e40efa09860026a18de6f71fbdeedf4e1235f67931b8d6b487d
@@ -40,35 +40,37 @@ http://31.172.87.52:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",Super Sports Cricket(SD) (PC)
 https://es1.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=192889894562&id=115656&pk=186b7da10ce1b332e0f1236451026cd230500ba31e6c917c352469461e2a3f77b0ebcc387c339e40efa09860026a18de6f71fbdeedf4e1235f67931b8d6b487d
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports" tvg-logo="" group-title="TATA PLAY INDIA ( NEW)",DD Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",DD Sports
 http://watchindia.net:8880/live/vvv/vvv/2380.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="" group-title="TATA PLAY INDIA ( NEW)",Sky Sports Arena
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",PTV Sports
+http://watchindia.net:8880/live/vvv/vvv/2325.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Arena
 http://watchindia.net:8880/live/vvv/vvv/2095.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Cricket (HD)
 http://watchindia.net:8880/live/vvv/vvv/2090.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Cricket (HD) 2
 http://watchindia.net:8880/live/vvv/vvv/2143.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW)",Sky Sports F1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports F1
 http://watchindia.net:8880/live/vvv/vvv/2094.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Football (HD)
 http://watchindia.net:8880/live/vvv/vvv/2093.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Golf" tvg-logo="" group-title="TATA PLAY INDIA ( NEW)",Sky Sports Golf
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Golf" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Golf
 http://watchindia.net:8880/live/vvv/vvv/2096.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Main Event (HD)
 http://watchindia.net:8880/live/vvv/vvv/2091.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Premier League (HD)
 http://watchindia.net:8880/live/vvv/vvv/2092.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW)",Sony Six HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Six HD 1
 http://watchindia.net:8880/live/vvv/vvv/1763.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW)",Sony Six HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD 2" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Six HD 2
 http://watchindia.net:8880/live/vvv/vvv/2144.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD 1" tvg-logo="" group-title="TATA PLAY INDIA ( NEW)",Sony Ten 1 HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 1 HD 1
 http://watchindia.net:8880/live/vvv/vvv/1756.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD 2" tvg-logo="" group-title="TATA PLAY INDIA ( NEW)",Sony Ten 1 HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD 2" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 1 HD 2
 http://watchindia.net:8880/live/vvv/vvv/2215.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW)",Sony Ten 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 2 HD
 http://watchindia.net:8880/live/vvv/vvv/1757.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="TATA PLAY INDIA ( NEW)",Sony Ten 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 3 HD
 http://watchindia.net:8880/live/vvv/vvv/1758.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports 1 HD (HD)
 http://watchindia.net:8880/live/vvv/vvv/2162.ts
@@ -94,7 +96,7 @@ http://watchindia.net:8880/live/vvv/vvv/1071.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Willow Cricket (HD)
 http://watchindia.net:8880/live/vvv/vvv/1067.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Cricket" tvg-logo="" group-title="TATA PLAY INDIA ( NEW)",Willow Cricket(HD) 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Willow Cricket(HD) 2
 http://watchindia.net:8880/live/vvv/vvv/2145.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS FHD",Star Sports 1 HD (FHD)
