@@ -31,6 +31,10 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="😈R4Z0R™😈 Kids",Cartoon Network
 http://watchindia.net:8880/live/vvv/vvv/2052.ts
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEING Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",BEING Sports 3 (SD)
+http://31.172.87.50:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",PTV Sports HD (SD)
+http://31.172.87.50:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",Sky Sports Cricket(SD) (PC)
 https://es5.quest123.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=063fecd0b3b29e713ebaf8093b553680cedade808851faac737a8a35ba734f57ba51cb28071feb77f8bfb71c769126fb3a053ff0ef06142093cdc942fccdcfcb
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD", Star Sports 1 Hindhi HD (SD)
@@ -38,7 +42,7 @@ https://raw.githubusercontent.com/Filmy4waphindi/9aug/main/expire_token_f2hscy9s
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD", Star Sports 1 Hindhi HD (SD) 2
 https://vkvsd17.mycdn.me/hls/2931534858784.m3u8/sig/hlZMDeo5MoI/expires/1666966748083/srcIp/157.34.117.3/clientType/13/srcAg/CHROME/mid/4131672828704/2931534858784_low/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Tamil" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",Star Sports Tamil (SD)
-
+http://31.172.87.50:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",Super Sports Cricket(SD) (PC)
 https://es1.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=192889894562&id=115656&pk=186b7da10ce1b332e0f1236451026cd230500ba31e6c917c352469461e2a3f77b0ebcc387c339e40efa09860026a18de6f71fbdeedf4e1235f67931b8d6b487d
 
@@ -103,6 +107,8 @@ http://watchindia.net:8880/live/vvv/vvv/2145.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS FHD",Sky Sports Cricket (FHD)
 http://31.172.87.50:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS FHD",Sky Sports Main Event (FHD)
+http://31.172.87.50:2200//EX/Sky_Sports_Main_Event_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS FHD",Star Sports 1 HD (FHD)
 http://watchindia.net:8880/live/vvv/vvv/808.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS FHD",Star Sports 1 Hindhi HD (FHD)
@@ -115,35 +121,3 @@ https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
 https://github.com/nandunuditha/LiveStream/raw/main/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST 2
-http://31.172.87.50:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-http://31.172.87.50:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-http://31.172.87.50:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-http://31.172.87.50:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-http://31.172.87.50:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-http://31.172.87.50:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-http://31.172.87.50:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-http://31.172.87.50:2200/AFR-EX/SuperSport_Variety_1_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-http://31.172.87.50:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-http://31.172.87.50:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-http://31.172.87.50:2200//EX/Sky_Sports_Main_Event_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
