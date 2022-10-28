@@ -111,6 +111,6 @@ https://akiliv.herokuapp.com/app/master.php?id=48120&e=.m3u8
 https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
 
 #EXTINF:-3 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-https://github.com/nandunuditha/LiveStream/raw/main/playlist.m3u8
+https://github.com/nandunuditha/LiveStream/raw/main/chunks2.m3u8
 
 
