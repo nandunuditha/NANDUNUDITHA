@@ -1,4 +1,4 @@
-﻿﻿﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml"
+﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ada Derana" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",Ada Derana 24x7 (SD)
 
@@ -112,7 +112,9 @@ https://akiliv.herokuapp.com/app/master.php?id=48120&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS FHD",Star Sports 2 HD (FHD)
 https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
 
-#EXTINF:-3 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
 https://github.com/nandunuditha/LiveStream/raw/main/chunks2.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST 2
+http://31.172.87.52:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
 
