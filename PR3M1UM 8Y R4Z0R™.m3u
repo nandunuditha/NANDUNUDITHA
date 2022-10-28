@@ -113,7 +113,7 @@ https://akiliv.herokuapp.com/app/master.php?id=48120&e=.m3u8
 https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-https://github.com/nandunuditha/LiveStream/raw/main/chunks2.m3u8
+https://github.com/nandunuditha/LiveStream/raw/main/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST 2
 http://31.172.87.50:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
