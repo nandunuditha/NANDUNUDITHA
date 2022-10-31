@@ -119,5 +119,5 @@ https://akiliv.herokuapp.com/app/master.php?id=48120&e=.m3u8
 https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-http://31.172.87.19:2200/R-EX/KIDS_Nick-in/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+http://31.172.87.50:2200/R-EX/KIDS_Nick-in/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
 
