@@ -119,5 +119,5 @@ https://akiliv.herokuapp.com/app/master.php?id=48120&e=.m3u8
 https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
-https://es2.quest123.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=bec1e4f3a62d0699d3ba21f32e347c5023f4c437334445ef5143b0f011089db7315457bb494b05142067a29548801dee05c44a3eb23562d840f70c55d4ca4a69
+https://github.com/nandunuditha/LiveStream/raw/main/playlist.m3u8
 
