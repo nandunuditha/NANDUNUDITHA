@@ -27,47 +27,47 @@ https://jiotv.hadinetbd.tech/jio/v1/Colors_Cineplex_HD/Colors_Cineplex_HD/Colors
 https://jiotv.hadinetbd.tech/jio/v1/Colors_HD/Colors_HD/Colors_HD.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralIndia.in" tvg-name="Comedy Central" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="😈R4Z0R™😈 Indian",Comedy Central HD (HD)
 https://jiotv.hadinetbd.tech/jio/v1/Comedy_Central_HD/Comedy_Central_HD/Comedy_Central_HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Bharat" tvg-logo="" group-title="😈R4Z0R™😈 Indian",Star Bharat HD (HD)
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="Star Bharat" tvg-logo="" group-title="😈R4Z0R™😈 Indian",Star Bharat HD (HD)
 http://208.86.19.13:81/721.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select" tvg-logo="" group-title="😈R4Z0R™😈 Indian",Star Gold Select HD (HD)
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="Star Gold Select" tvg-logo="" group-title="😈R4Z0R™😈 Indian",Star Gold Select HD (HD)
 http://208.86.19.16/709.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="" group-title="😈R4Z0R™😈 Indian",Star Plus (SD)
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus" tvg-logo="" group-title="😈R4Z0R™😈 Indian",Star Plus (SD)
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
-#EXTINF:-1 tvg-id="567" tvg-name="Animal Planet" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="😈R4Z0R™😈 Documentry",Animal Planet (HD)
+#EXTINF:-1 tvg-id="AnimalPlanetIndia.in" tvg-name="Animal Planet" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="😈R4Z0R™😈 Documentry",Animal Planet (HD)
 https://jiotv.hadinetbd.tech/jio/v1/Animal_Planet_HD/Animal_Planet_HD/Animal_Planet_HD.m3u8
-#EXTINF:-1 tvg-id="242" tvg-name="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="😈R4Z0R™😈 Documentry",Discovery (SD)
+#EXTINF:-1 tvg-id="DiscoveryChannelIndia.in" tvg-name="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="😈R4Z0R™😈 Documentry",Discovery (SD)
 https://jiotv.hadinetbd.tech/jio/v1/Discovery/Discovery/Discovery.m3u8
-#EXTINF:-1 tvg-id="463" tvg-name="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="😈R4Z0R™😈 Documentry",Discovery HD World (HD)
+#EXTINF:-1 tvg-id="DiscoveryChannelIndia.in" tvg-name="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="😈R4Z0R™😈 Documentry",Discovery HD World (HD)
 https://jiotv.hadinetbd.tech/jio/v1/Discovery_HD_World/Discovery_HD_World/Discovery_HD_World.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="" group-title="😈R4Z0R™😈 Movies",Sony Pix HD (HD)
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" tvg-logo="" group-title="😈R4Z0R™😈 Movies",Sony Pix HD (HD)
 http://watchindia.net:8880/live/vvv/vvv/2101.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="" group-title="😈R4Z0R™😈 Movies",Star Movies HD (HD)
+#EXTINF:-1 tvg-id="StarMoviesHDIndia.in" tvg-name="Star Movies" tvg-logo="" group-title="😈R4Z0R™😈 Movies",Star Movies HD (HD)
 http://watchindia.net:8880/live/vvv/vvv/2080.ts
 
 #EXTINF:-1 tvg-id="753" tvg-name="MTV Beats" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="😈R4Z0R™😈 Music",MTV Beats HD (HD)
 https://jiotv.hadinetbd.tech/jio/v1/MTV_Beats_HD/MTV_Beats_HD/MTV_Beats_HD.m3u8
-#EXTINF:-1 tvg-id="585" tvg-name="Zing" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="😈R4Z0R™😈 Music",Zing (SD)
+#EXTINF:-1 tvg-id="ZingAsia.in" tvg-name="Zing" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="😈R4Z0R™😈 Music",Zing (SD)
 https://jiotv.hadinetbd.tech/jio/v1/Zing/Zing/Zing.m3u8
-#EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="😈R4Z0R™😈 Music",9XM (SD)
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="😈R4Z0R™😈 Music",9XM (SD)
 https://jiotv.hadinetbd.tech/jio/v1/9XM/9XM/9XM.m3u8
-#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="😈R4Z0R™😈 Music",MTV HD (HD)
+#EXTINF:-1 tvg-id="MTVIndia.in" tvg-name="MTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="😈R4Z0R™😈 Music",MTV HD (HD)
 https://jiotv.hadinetbd.tech/jio/v1/MTV_HD_Plus/MTV_HD_Plus/MTV_HD_Plus.m3u8
 #EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="😈R4Z0R™😈 Music",Music India (SD)
 https://jiotv.hadinetbd.tech/jio/v1/Music_India/Music_India/Music_India.m3u8
-#EXTINF:-1 tvg-id="732" tvg-name="9X Tashan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="😈R4Z0R™😈 Music",9X Tashan (SD)
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="😈R4Z0R™😈 Music",9X Tashan (SD)
 https://jiotv.hadinetbd.tech/jio/v1/9X_Tashan/9X_Tashan/9X_Tashan.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="" group-title="😈R4Z0R™😈 News HD",Al Jazeera (HD)
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera" tvg-logo="" group-title="😈R4Z0R™😈 News HD",Al Jazeera (HD)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="1079" tvg-name="Cartoon Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="😈R4Z0R™😈 Kids",Cartoon Network HD+ (HD)
+#EXTINF:-1 tvg-id="CartoonNetworkIndia.in" tvg-name="Cartoon Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="😈R4Z0R™😈 Kids",Cartoon Network HD+ (HD)
 https://jiotv.hadinetbd.tech/jio/v1/CN_HD_English/CN_HD_English/CN_HD_English.m3u8
-#EXTINF:-1 tvg-id="545" tvg-name="Nick" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="😈R4Z0R™😈 Kids",Nick (SD)
+#EXTINF:-1 tvg-id="NickelodeonIndia.in" tvg-name="Nick" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="😈R4Z0R™😈 Kids",Nick (SD)
 https://jiotv.hadinetbd.tech/jio/v1/Nick_Hindi/Nick_Hindi/Nick_Hindi.m3u8
-#EXTINF:-1 tvg-id="542" tvg-name="Pogo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="😈R4Z0R™😈 Kids",Pogo (SD)
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="😈R4Z0R™😈 Kids",Pogo (SD)
 https://jiotv.hadinetbd.tech/jio/v1/Pogo_Tamil/Pogo_Tamil/Pogo_Tamil.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEING Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",BEING Sports 3 (SD)
@@ -85,7 +85,7 @@ http://31.172.87.50:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",Super Sports Cricket(SD) (PC)
 https://es1.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=192889894562&id=115656&pk=186b7da10ce1b332e0f1236451026cd230500ba31e6c917c352469461e2a3f77b0ebcc387c339e40efa09860026a18de6f71fbdeedf4e1235f67931b8d6b487d
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",DD Sports (HD)
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",DD Sports (HD)
 http://watchindia.net:8880/live/vvv/vvv/2380.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",PTV Sports (HD)
 http://watchindia.net:8880/live/vvv/vvv/2325.ts
@@ -105,23 +105,23 @@ http://watchindia.net:8880/live/vvv/vvv/2096.ts
 http://watchindia.net:8880/live/vvv/vvv/2091.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Premier League (HD)
 http://watchindia.net:8880/live/vvv/vvv/2092.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Six (HD)
+#EXTINF:-1 tvg-id="SonySix.in" tvg-name="Sony Six" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Six (HD)
 http://watchindia.net:8880/live/vvv/vvv/1763.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Six (HD) 2
+#EXTINF:-1 tvg-id="SonySix.in" tvg-name="Sony Six" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Six (HD) 2
 http://watchindia.net:8880/live/vvv/vvv/2144.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 1 (HD) 1
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="Sony Ten 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 1 (HD) 1
 http://watchindia.net:8880/live/vvv/vvv/1756.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 1 (HD) 2
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="Sony Ten 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 1 (HD) 2
 http://watchindia.net:8880/live/vvv/vvv/2215.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 2 (HD)
+#EXTINF:-1 tvg-id="SonyTen2.in" tvg-name="Sony Ten 2" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 2 (HD)
 http://watchindia.net:8880/live/vvv/vvv/1757.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 3 (HD)
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-name="Sony Ten 3" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 3 (HD)
 http://watchindia.net:8880/live/vvv/vvv/1758.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports 1 HD (HD)
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports 1 HD (HD)
 http://test-otv1.ftpbd.net/streams/110/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports 1 HD (HD) 2
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports 1 HD (HD) 2
 http://watchindia.net:8880/live/vvv/vvv/2186.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports 1 HD (HD) 3
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports 1 HD (HD) 3
 http://watchindia.net:8880/live/vvv/vvv/2232.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD", Star Sports 1 Hindhi HD (HD)
 http://watchindia.net:8880/live/vvv/vvv/1072.ts
@@ -131,11 +131,11 @@ http://watchindia.net:8880/live/vvv/vvv/2167.ts
 http://watchindia.net:8880/live/vvv/vvv/1069.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports 2 HD (HD) 2
 http://watchindia.net:8880/live/vvv/vvv/2163.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports Select 1 HD (HD)
+#EXTINF:-1 tvg-id="StarSportsSelect1HD.in" tvg-name="Star Sports Select 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports Select 1 HD (HD)
 http://watchindia.net:8880/live/vvv/vvv/1070.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports Select 1 HD (HD) 2
+#EXTINF:-1 tvg-id="StarSportsSelect1HD.in" tvg-name="Star Sports Select 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports Select 1 HD (HD) 2
 http://watchindia.net:8880/live/vvv/vvv/2292.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports Select 2 HD (HD)
+#EXTINF:-1 tvg-id="StarSportsSelect2HD.in" tvg-name="Star Sports Select 2" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Star Sports Select 2 HD (HD)
 http://watchindia.net:8880/live/vvv/vvv/1071.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Super Sports Cricket (HD)
 
