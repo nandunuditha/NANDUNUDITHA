@@ -21,14 +21,54 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667334133/ei/l
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITN" tvg-logo="" group-title="😈R4Z0R™😈 SL HD",ITN (HD)
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="😈R4Z0R™😈 Documentry",Animal Planet
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="😈R4Z0R™😈 Indian",Colors Cineplex (HD)
+https://jiotv.hadinetbd.tech/jio/v1/Colors_Cineplex_HD/Colors_Cineplex_HD/Colors_Cineplex_HD.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="Colors" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="😈R4Z0R™😈 Indian",Colors (HD)
+https://jiotv.hadinetbd.tech/jio/v1/Colors_HD/Colors_HD/Colors_HD.m3u8
+#EXTINF:-1 tvg-id="1157" tvg-name="Comedy Central" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="😈R4Z0R™😈 Indian",Comedy Central HD (HD)
+https://jiotv.hadinetbd.tech/jio/v1/Comedy_Central_HD/Comedy_Central_HD/Comedy_Central_HD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Bharat" tvg-logo="" group-title="😈R4Z0R™😈 Indian",Star Bharat HD (HD)
+http://208.86.19.13:81/721.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select" tvg-logo="" group-title="😈R4Z0R™😈 Indian",Star Gold Select HD (HD)
+http://208.86.19.16/709.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus" tvg-logo="" group-title="😈R4Z0R™😈 Indian",Star Plus (SD)
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="567" tvg-name="Animal Planet" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="😈R4Z0R™😈 Documentry",Animal Planet (HD)
+https://jiotv.hadinetbd.tech/jio/v1/Animal_Planet_HD/Animal_Planet_HD/Animal_Planet_HD.m3u8
+#EXTINF:-1 tvg-id="242" tvg-name="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="😈R4Z0R™😈 Documentry",Discovery (SD)
+https://jiotv.hadinetbd.tech/jio/v1/Discovery/Discovery/Discovery.m3u8
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="😈R4Z0R™😈 Documentry",Discovery HD World (HD)
+https://jiotv.hadinetbd.tech/jio/v1/Discovery_HD_World/Discovery_HD_World/Discovery_HD_World.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="" group-title="😈R4Z0R™😈 Movies",Sony Pix HD (HD)
+http://watchindia.net:8880/live/vvv/vvv/2101.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="" group-title="😈R4Z0R™😈 Movies",Star Movies HD (HD)
+http://watchindia.net:8880/live/vvv/vvv/2080.ts
+
+#EXTINF:-1 tvg-id="753" tvg-name="MTV Beats" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="😈R4Z0R™😈 Music",MTV Beats HD (HD)
+https://jiotv.hadinetbd.tech/jio/v1/MTV_Beats_HD/MTV_Beats_HD/MTV_Beats_HD.m3u8
+#EXTINF:-1 tvg-id="585" tvg-name="Zing" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="😈R4Z0R™😈 Music",Zing (SD)
+https://jiotv.hadinetbd.tech/jio/v1/Zing/Zing/Zing.m3u8
+#EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png" group-title="😈R4Z0R™😈 Music",9XM (SD)
+https://jiotv.hadinetbd.tech/jio/v1/9XM/9XM/9XM.m3u8
+#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="😈R4Z0R™😈 Music",MTV HD (HD)
+https://jiotv.hadinetbd.tech/jio/v1/MTV_HD_Plus/MTV_HD_Plus/MTV_HD_Plus.m3u8
+#EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="😈R4Z0R™😈 Music",Music India (SD)
+https://jiotv.hadinetbd.tech/jio/v1/Music_India/Music_India/Music_India.m3u8
+#EXTINF:-1 tvg-id="732" tvg-name="9X Tashan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="😈R4Z0R™😈 Music",9X Tashan (SD)
+https://jiotv.hadinetbd.tech/jio/v1/9X_Tashan/9X_Tashan/9X_Tashan.m3u8
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="" group-title="😈R4Z0R™😈 News HD",Al Jazeera (HD)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="😈R4Z0R™😈 Kids",Cartoon Network
-http://watchindia.net:8880/live/vvv/vvv/2052.ts
+#EXTINF:-1 tvg-id="1079" tvg-name="Cartoon Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="😈R4Z0R™😈 Kids",Cartoon Network HD+ (HD)
+https://jiotv.hadinetbd.tech/jio/v1/CN_HD_English/CN_HD_English/CN_HD_English.m3u8
+#EXTINF:-1 tvg-id="545" tvg-name="Nick" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="😈R4Z0R™😈 Kids",Nick (SD)
+https://jiotv.hadinetbd.tech/jio/v1/Nick_Hindi/Nick_Hindi/Nick_Hindi.m3u8
+#EXTINF:-1 tvg-id="542" tvg-name="Pogo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="😈R4Z0R™😈 Kids",Pogo (SD)
+https://jiotv.hadinetbd.tech/jio/v1/Pogo_Tamil/Pogo_Tamil/Pogo_Tamil.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEING Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",BEING Sports 3 (SD)
 http://31.172.87.50:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
