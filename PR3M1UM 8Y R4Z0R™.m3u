@@ -93,7 +93,7 @@ http://watchindia.net:8880/live/vvv/vvv/2380.ts
 http://watchindia.net:8880/live/vvv/vvv/2325.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Arena (HD)
 http://watchindia.net:8880/live/vvv/vvv/2095.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Cricket (HD)
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Cricket (HD)
 http://212.224.84.213:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Cricket (HD) 2
 http://ipflix.click:8080/live/3rvvs1p95e/w2a1bam3x7/692264.m3u8
