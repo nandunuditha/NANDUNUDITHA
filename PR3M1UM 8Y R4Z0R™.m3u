@@ -165,3 +165,7 @@ http://212.224.84.213:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token
 http://212.224.84.213:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1 HD ENGLISH_RED 1" tvg-logo="" group-title="SPORTS NEW OCTOBER",STAR SPORTS 1 HD ENGLISH_RED 1
 http://212.224.84.213:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN HD" tvg-logo="" group-title="INDIS 🆚 SOUTH AFRICA ODI 2022",ATN HD
+http://212.224.84.213:2200/TR/atnhd-afg/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV SPORTS HD" tvg-logo="" group-title="INDIS 🆚 SOUTH AFRICA ODI 2022",PTV SPORTS HD
+http://212.224.84.213:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
