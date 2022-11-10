@@ -160,3 +160,4 @@ https://akiliv.herokuapp.com/app/master.php?id=48120&e=.m3u8
 https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
+http://212.224.84.213:2200/R-EX/ENGLISH_HBO_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
