@@ -68,12 +68,12 @@ https://jiotv.hadinetbd.tech/jio/v1/CN_HD_English/CN_HD_English/CN_HD_English.m3
 #EXTINF:-1 tvg-id="NickelodeonIndia.in" tvg-name="Nick" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="😈R4Z0R™😈 Kids",Nick (SD)
 https://jiotv.hadinetbd.tech/jio/v1/Nick_Hindi/Nick_Hindi/Nick_Hindi.m3u8
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="😈R4Z0R™😈 Kids",Pogo (SD)
-https://jiotv.hadinetbd.tech/jio/v1/Pogo_Tamil/Pogo_Tamil/Pogo_Tamil.m3u8
+http://212.224.84.213:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEING Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",BEING Sports 3 (SD)
 http://31.172.87.50:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",PTV Sports HD (SD)
-http://31.172.87.50:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+http://212.224.84.213:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",Sky Sports Cricket(SD) (PC)
 https://es5.quest123.top:8088/live/webcricn04/playlist.m3u8?id=114607&pk=063fecd0b3b29e713ebaf8093b553680cedade808851faac737a8a35ba734f57ba51cb28071feb77f8bfb71c769126fb3a053ff0ef06142093cdc942fccdcfcb
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD", Star Sports 1 Hindhi HD (SD)
@@ -85,6 +85,8 @@ http://31.172.87.50:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS SD",Super Sports Cricket(SD) (PC)
 https://es1.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=192889894562&id=115656&pk=186b7da10ce1b332e0f1236451026cd230500ba31e6c917c352469461e2a3f77b0ebcc387c339e40efa09860026a18de6f71fbdeedf4e1235f67931b8d6b487d
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",(ATN HD)
+http://212.224.84.213:2200/TR/atnhd-afg/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",DD Sports (HD)
 http://watchindia.net:8880/live/vvv/vvv/2380.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",PTV Sports (HD)
@@ -92,7 +94,7 @@ http://watchindia.net:8880/live/vvv/vvv/2325.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Arena (HD)
 http://watchindia.net:8880/live/vvv/vvv/2095.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Cricket (HD)
-http://watchindia.net:8880/live/vvv/vvv/2143.ts
+http://212.224.84.213:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports Cricket (HD) 2
 http://ipflix.click:8080/live/3rvvs1p95e/w2a1bam3x7/692264.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sky Sports F1 (HD)
@@ -140,7 +142,7 @@ http://watchindia.net:8880/live/vvv/vvv/1071.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Sports Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Super Sports Cricket (HD)
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Willow Cricket (HD)
-https://bhls.sportsignalforsell.cc/playing/live/1/chunks.m3u8
+http://212.224.84.213:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Cricket" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Willow Cricket(HD) 2
 http://watchindia.net:8880/live/vvv/vvv/2145.ts
 
@@ -163,8 +165,6 @@ http://212.224.84.213:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=RED_Hqqv
 http://212.224.84.213:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POGO" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",POGO
 http://212.224.84.213:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1 HD ENGLISH_RED 1" tvg-logo="" group-title="SPORTS NEW OCTOBER",STAR SPORTS 1 HD ENGLISH_RED 1
-http://212.224.84.213:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN HD" tvg-logo="" group-title="INDIS 🆚 SOUTH AFRICA ODI 2022",ATN HD
 http://212.224.84.213:2200/TR/atnhd-afg/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV SPORTS HD" tvg-logo="" group-title="INDIS 🆚 SOUTH AFRICA ODI 2022",PTV SPORTS HD
