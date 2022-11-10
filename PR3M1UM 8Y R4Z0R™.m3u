@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml"
+﻿﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ada Derana" tvg-logo="" group-title="😈R4Z0R™😈 SL SD",Ada Derana 24x7 (SD)
 
@@ -161,4 +161,5 @@ https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
 http://212.224.84.213:2200/EX/Sky_Sports_Cricket_HD-uk/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Test" tvg-logo="" group-title="TEST",TEST
 http://212.224.84.213:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POGO" tvg-logo="" group-title="KIDS SPECIAL CHANNELS",POGO
+http://212.224.84.213:2200/R-EX/KIDS_Pogo-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
