@@ -111,10 +111,10 @@ http://watchindia.net:8880/live/vvv/vvv/2092.ts
 http://techmaxlive.ml/live.php?c=Six_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="SonySix.in" tvg-name="Sony Six" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Six (HD) 2
 http://techmaxlive.ml/live.php?c=Sony_Six_SD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="Sony Ten 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 1 (HD) 1
-http://watchindia.net:8880/live/vvv/vvv/1756.ts
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="Sony Ten 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 1 (HD)
+http://techmaxlive.ml/live.php?c=Ten_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="SonyTen1.in" tvg-name="Sony Ten 1" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 1 (HD) 2
-http://watchindia.net:8880/live/vvv/vvv/2215.ts
+http://techmaxlive.ml/live.php?c=Ten_1&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="SonyTen2.in" tvg-name="Sony Ten 2" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 2 (HD)
 http://watchindia.net:8880/live/vvv/vvv/1757.ts
 #EXTINF:-1 tvg-id="SonyTen3.in" tvg-name="Sony Ten 3" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Sony Ten 3 (HD)
