@@ -87,6 +87,8 @@ https://es1.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=19288989456
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",ATN (HD)
 http://212.224.84.213:2200/TR/atnhd-afg/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jio Cricket English" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",Jio Cricket English (HD)
+https://tvstream.fun/jtv/auto_quality_jio.php?c=Jio_Cricket_English&q=600&e=.m3u8|Referer=https://tvstream.fun/?=RanaPk
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",DD Sports (HD)
 http://watchindia.net:8880/live/vvv/vvv/2380.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="😈R4Z0R™😈 SPORTS HD",PTV Sports (HD)
